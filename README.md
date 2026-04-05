@@ -1,6 +1,6 @@
 # rice_classification
 
-A new Flutter project.
+A Flutter app for classifying 58 rice varieties using a lightweight MobileNetV4 deep learning model. Features OpenCV-based grain detection, TFLite inference, and real-time predictions on mobile devices.
 
 ## Getting Started
 
